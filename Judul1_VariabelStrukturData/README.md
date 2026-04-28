@@ -47,9 +47,11 @@ Source Code
 
 20.Menggunakan except untuk menangkap kesalahan jika input bukan angka dan menampilkan pesan kesalahan.
 
-21-22.Mencetak judul daftar barang yang akan ditampilkan.
+21-22. mencetak masukan angka yang benar
 
 23.
+
+24Mencetak judul daftar barang yang akan ditampilkan.
 
 25-26.Memeriksa apakah data barang masih kosong dengan mengecek panjang list.
 
