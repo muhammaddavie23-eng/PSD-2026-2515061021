@@ -1,1 +1,5 @@
+Tugas Akhir Percobaan 1
 
+Judul Program : Sistem Data Nilai Siswa
+
+Program ini berfungsi sebagai sistem manajemen data akademik yang dirancang untuk memudahkan tenaga pendidik dalam melakukan pencatatan, pemantauan, dan evaluasi nilai siswa secara terstruktur. Dengan menyediakan fitur utama seperti input data yang tervalidasi, tampilan laporan dalam bentuk tabel, serta kalkulasi otomatis untuk menentukan rata-rata nilai setiap siswa, program ini membantu meningkatkan efisiensi administrasi nilai di lingkungan sekolah. Algoritma dan struktur data yang diterapkan dalam program ini adalah List 2D (dua dimensi) atau matriks, di mana baris merepresentasikan setiap siswa dan kolom merepresentasikan mata pelajaran tertentu. Implementasi ini menggunakan teknik perulangan bersarang (nested loop) untuk mengakses dan mengolah data pada setiap sel matriks, yang kemudian dikombinasikan dengan mekanisme error handling untuk menjamin integritas input data serta teknik string formatting untuk menyajikan data dalam format tabel yang sistematis dan mudah dibaca.
