@@ -1,5 +1,8 @@
 Tugas Akhir Percobaan 1
 
-Judul Program : Sistem Data Nilai Siswa
+Judul Program : Sistem Manajemen Toko
 
-Program ini berfungsi sebagai sistem manajemen data akademik yang dirancang untuk memudahkan tenaga pendidik dalam melakukan pencatatan, pemantauan, dan evaluasi nilai siswa secara terstruktur. Dengan menyediakan fitur utama seperti input data yang tervalidasi, tampilan laporan dalam bentuk tabel, serta kalkulasi otomatis untuk menentukan rata-rata nilai setiap siswa, program ini membantu meningkatkan efisiensi administrasi nilai di lingkungan sekolah. Algoritma dan struktur data yang diterapkan dalam program ini adalah List 2D (dua dimensi) atau matriks, di mana baris merepresentasikan setiap siswa dan kolom merepresentasikan mata pelajaran tertentu. Implementasi ini menggunakan teknik perulangan bersarang (nested loop) untuk mengakses dan mengolah data pada setiap sel matriks, yang kemudian dikombinasikan dengan mekanisme error handling untuk menjamin integritas input data serta teknik string formatting untuk menyajikan data dalam format tabel yang sistematis dan mudah dibaca.
+Program sistem manajemen toko ini dirancang untuk membantu pengguna mengelola operasional toko dengan cara yang lebih terorganisir dan efektif. Pengguna dapat secara sistematis mencatat informasi barang, seperti nama barang, harga, dan ketersediaan stok, menggunakan program ini. Pengguna dapat dengan mudah mengakses, melihat, dan mengubah informasi kapan pun diperlukan karena struktur data yang terorganisir dengan baik. Fungsi ini menghilangkan kebutuhan bagi manajer atau pemilik toko untuk mencatat data secara manual, yang rentan terhadap kesalahan,dan kehilangan data
+
+Source Code
+<img width="1834" height="3674" alt="Tugas akhir" src="https://github.com/user-attachments/assets/f5bd068b-35e8-4ffb-b44c-e039a1f9211b" />
