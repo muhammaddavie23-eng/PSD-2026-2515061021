@@ -168,3 +168,31 @@ Source Code
 87.
 
 88-89.Memastikan fungsi main dijalankan hanya ketika file program dieksekusi secara langsung
+
+
+
+
+Output : Menu
+<img width="299" height="171" alt="Screenshot 2026-04-28 204350" src="https://github.com/user-attachments/assets/7e91a37e-f5fa-4515-98b2-cfee58b0f445" />
+
+Menu 1 (belum ada inputan)
+<img width="299" height="234" alt="Screenshot 2026-04-28 204446" src="https://github.com/user-attachments/assets/39fdba9e-51bc-4fd9-93cb-13e232cf2447" />
+
+Menu 2 (menambahkan barang)
+<img width="287" height="102" alt="Screenshot 2026-04-28 204508" src="https://github.com/user-attachments/assets/c8e20696-37ba-4d92-a176-febeb2db9908" />
+
+Menu 1 (setelah di beri inputan)
+<img width="372" height="155" alt="Screenshot 2026-04-28 205517" src="https://github.com/user-attachments/assets/c2ed94b8-689e-48cb-af19-2fa886a4dfb5" />
+
+Menu 3
+<img width="282" height="132" alt="Screenshot 2026-04-28 204609" src="https://github.com/user-attachments/assets/2cd29959-0873-446a-9c5e-5e3614466cd9" />
+
+Menu 4
+<img width="264" height="71" alt="Screenshot 2026-04-28 204635" src="https://github.com/user-attachments/assets/b0e049b0-8749-4a88-8a67-ce376497e452" />
+
+Menu 0
+<img width="294" height="165" alt="Screenshot 2026-04-28 204653" src="https://github.com/user-attachments/assets/2ea12e30-1e34-45c7-aa73-f67c8872dfd5" />
+
+
+
+
