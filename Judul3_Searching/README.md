@@ -6,7 +6,8 @@ Tujuan dari program pencarian nomor kursi bioskop menggunakan Binary Search adal
 code source:
 <img width="1356" height="1812" alt="yang bener" src="https://github.com/user-attachments/assets/6c278f45-501d-4427-96c8-581d82ea45a4" />
 
-<img width="1085" height="1600" alt="WhatsApp Image 2026-05-12 at 18 21 38" src="https://github.com/user-attachments/assets/64b723eb-88c9-4933-baf7-486978c15e34" />
+<img width="2911" height="4269" alt="1000287276" src="https://github.com/user-attachments/assets/4b8398a0-bbe2-4353-a308-ef030f886d1d" />
+
 
 
 
