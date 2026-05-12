@@ -6,6 +6,9 @@ Tujuan dari program pencarian nomor kursi bioskop menggunakan Binary Search adal
 code source:
 <img width="1356" height="1812" alt="yang bener" src="https://github.com/user-attachments/assets/6c278f45-501d-4427-96c8-581d82ea45a4" />
 
+[1000287225.pdf](https://github.com/user-attachments/files/27634015/1000287225.pdf)
+
+
 1.	membuat fungsi pencarian bernama Binary Search untuk mencari nomor kursi tertentu pada daftar data yang sudah terurut. 
 2.	Fungsi menerima tiga parameter yaitu daftar data, jumlah data, dan nomor kursi yang dicari. 
 3.	Variabel batas kiri dibuat dengan nilai awal indeks pertama. 
