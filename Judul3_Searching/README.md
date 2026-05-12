@@ -52,8 +52,12 @@ Program selesai setelah hasil pencarian ditampilkan kepada pengguna.
 
 Output:
 <img width="327" height="45" alt="Screenshot 2026-05-12 110043" src="https://github.com/user-attachments/assets/9f8c7873-b5e2-42d4-84b8-fa882338929e" />
+Pengguna diberikan daftar kursi dan diminta untuk memasukkan no kursi
 
 <img width="356" height="154" alt="Screenshot 2026-05-12 110100" src="https://github.com/user-attachments/assets/6445dd9f-ad38-4efd-8b7a-77d3e911fb08" />
+Sistem mencari nilai tengah,dan dikarenakan no kursi yang dicari lebih besar dari pada nilai tengah, maka pencarian akan difokuskan di sebelah kanan.
+Sistem mencari nilai tengah di bagian kanan yaitu  8, dikarenakan no kursi yang dicari lebih besar dari pada nilai tengah, maka pencarian akan difokuskan di sebelah kanan.
+Sistem mencari nilai tengah di bagian kanan yaitu  9, dikarenakan 9 adalah no yang dicari maka pencarian dihentikan.  No 9 berada pada indeks ke 8
 
-link youtube:
+link youtube:https://youtu.be/5CflhROV5tM
 
