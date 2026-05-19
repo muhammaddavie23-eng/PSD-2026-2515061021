@@ -91,18 +91,22 @@ Tujuan dari program tersebut adalah untuk membuat sistem sederhana yang dapat me
 Output 1
 <img width="297" height="171" alt="Screenshot 2026-05-19 141857" src="https://github.com/user-attachments/assets/be2c62c5-a7c1-4d81-bf62-152d43388357" />
 <img width="220" height="29" alt="Screenshot 2026-05-19 141937" src="https://github.com/user-attachments/assets/3bc41005-aaaa-413d-b786-6070fa638108" />
+Pengguna diminta untuk menginput kan 
 
 Output 2
 <img width="338" height="43" alt="Screenshot 2026-05-19 142115" src="https://github.com/user-attachments/assets/c268eb48-a2be-46af-8d75-668c79f9dbe1" />
+Hasil dari inputan 2
 
 Output 3
 <img width="304" height="44" alt="Screenshot 2026-05-19 142102" src="https://github.com/user-attachments/assets/f2d43559-4330-45fe-bb6a-ce7d563e357a" />
+Hasil dari inputan 3
 
 Output 4
 <img width="289" height="70" alt="Screenshot 2026-05-19 142154" src="https://github.com/user-attachments/assets/90b75ef4-33e8-4f74-8c8a-0b1efe1b370d" />
-
+Hasil dari inputan 4
 Output 5
 <img width="264" height="157" alt="Screenshot 2026-05-19 142211" src="https://github.com/user-attachments/assets/4cdb2dda-9471-4398-b4e5-632454a0ad82" />
+Hasil dari inputan 5
 
 
 Link video:
