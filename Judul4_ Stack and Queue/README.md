@@ -1,4 +1,4 @@
-Judul Program: Riwayat Buku
+Judul Program: Pencatat Riwayat Buku
 
 Tujuan dari program tersebut adalah untuk membuat sistem sederhana yang dapat menyimpan dan mengelola riwayat buku menggunakan struktur data stack dengan konsep Last In First Out (LIFO), yaitu data yang terakhir dimasukkan akan menjadi data pertama yang diambil atau dihapus. Program ini memungkinkan pengguna untuk menambahkan judul buku, melihat buku terakhir yang dimasukkan, menghapus buku terakhir, serta menampilkan seluruh riwayat buku yang tersimpan
 
