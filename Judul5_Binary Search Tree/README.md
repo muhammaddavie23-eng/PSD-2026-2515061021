@@ -3,8 +3,7 @@ Judul Program: Sistem Data Barang Toko
 Tujuan dari program ini adalah untuk membantu pengelolaan data barang pada sebuah toko dengan menggunakan struktur data Binary Search Tree (BST). Program dibuat agar proses penyimpanan dan pencarian barang menjadi lebih cepat dan teratur berdasarkan kode barang
 
 Source code
-<img width="1510" height="5650" alt="code tugas akhir" src="https://github.com/user-attachments/assets/f085c404-53d3-421e-857b-a2f012c164d1" />
-
+<img width="1508" height="5688" alt="code tugas akhir 5 " src="https://github.com/user-attachments/assets/ad15ebd0-d12b-4a5a-acb7-78a2fdd0c53a" />
 
 1.  mendefinisikan class Node untuk membuat node pada Binary Search Tree.
    
