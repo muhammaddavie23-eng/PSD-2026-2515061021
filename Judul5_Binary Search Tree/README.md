@@ -289,4 +289,41 @@ Source code
 141 menjalankan fungsi main().
 
 
+
+
+pilihan menu:
+<img width="328" height="186" alt="Screenshot 2026-05-26 161716" src="https://github.com/user-attachments/assets/46d7e54d-f642-4913-91ca-974d36aeb320" />
+
+pilihan 1:
+
+<img width="310" height="86" alt="Screenshot 2026-05-26 173328" src="https://github.com/user-attachments/assets/014d486f-2bf8-4c75-85a1-7d860d4ae363" />
+
+pilihan 2:
+
+apa bila kode ada didalam data
+
+<img width="341" height="78" alt="Screenshot 2026-05-26 173336" src="https://github.com/user-attachments/assets/443d1b73-ca8a-42cc-99a1-5c48c0f78361" />
+
+apa bila kode tidak ditemukan didalam data
+
+<img width="336" height="66" alt="Screenshot 2026-05-26 173348" src="https://github.com/user-attachments/assets/62d19aa1-7a11-48c2-89b0-bbb0f3d240e9" />
+
+
+pilihan 3:
+
+<img width="283" height="116" alt="Screenshot 2026-05-26 173400" src="https://github.com/user-attachments/assets/52537793-a33c-4aa9-9fe1-dede434ddd49" />
+
+pilihan 4:
+
+<img width="327" height="47" alt="Screenshot 2026-05-26 173413" src="https://github.com/user-attachments/assets/d069b819-4122-4bb4-ba2a-ddd23432c230" />
+
+pilihan 5:
+
+<img width="175" height="51" alt="Screenshot 2026-05-26 173423" src="https://github.com/user-attachments/assets/243e774c-1802-445c-8f0e-58d8223f2960" />
+
+pilihan 6:
+
+<img width="173" height="35" alt="Screenshot 2026-05-26 174119" src="https://github.com/user-attachments/assets/5c4b0da1-56b0-4026-bf7a-bb94d9377639" />
+
+
 link youtube:https://youtu.be/O6Ql8er8fZw
