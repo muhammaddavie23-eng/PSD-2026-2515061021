@@ -1,4 +1,4 @@
-
+Tujuan: Program ini memungkinkan pengguna untuk menambah data, mencari data, menghapus data, dan menampilkan isi hash table
 Source Code:
 <img width="1616" height="5878" alt="code TA judul 6" src="https://github.com/user-attachments/assets/522e90e4-ba22-4ec3-b3a0-6a90c6959c27" />
 
