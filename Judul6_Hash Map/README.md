@@ -106,14 +106,14 @@ Source Code:
 102.	Menampilkan menu tampil data.
 103.	Menampilkan menu keluar.
 104.	
-105.	 Meminta input pilihan pengguna.
+105.	Meminta input pilihan pengguna
 106.	
 107.	Jika memilih tambah data.
 108.	Meminta key.
 109.	Meminta value.
 110.	
 111.	Menambahkan data ke hash table.
-112.	 Menampilkan pesan berhasil.
+112. Menampilkan pesan berhasil.
 113.	Jika gagal.
 114.	Menampilkan pesan tabel penuh.
 115.	
@@ -149,3 +149,4 @@ Source Code:
 145.	Memastikan file dijalankan sebagai program utama.
 146.	Memanggil fungsi utama program.
 
+link youtube:
