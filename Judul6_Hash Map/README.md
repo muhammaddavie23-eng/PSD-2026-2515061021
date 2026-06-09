@@ -151,4 +151,26 @@ Source Code:
 146.	Memastikan file dijalankan sebagai program utama.
 147.	Memanggil fungsi utama program.
 
+Pilihan Menu:
+<img width="264" height="147" alt="Screenshot 2026-06-09 210411" src="https://github.com/user-attachments/assets/202e41e4-de8f-4ff1-81e8-ce9d3bf9c5c9" />
+
+inputan 1:
+<img width="234" height="102" alt="Screenshot 2026-06-09 210421" src="https://github.com/user-attachments/assets/95690678-2a06-44a6-a4cd-dff98a336191" />
+<img width="225" height="99" alt="Screenshot 2026-06-09 210436" src="https://github.com/user-attachments/assets/b019de2f-5b2a-4b10-9ac9-bfb4bf055719" />
+
+inputan 2:
+<img width="364" height="78" alt="Screenshot 2026-06-09 210453" src="https://github.com/user-attachments/assets/89aa7a6f-36c4-4ac0-933b-b90b072fb74a" />
+
+inputan 3:
+<img width="318" height="72" alt="Screenshot 2026-06-09 210504" src="https://github.com/user-attachments/assets/3ecc3796-1b1e-4266-8442-1a2c70785301" />
+<img width="316" height="68" alt="Screenshot 2026-06-09 210514" src="https://github.com/user-attachments/assets/1cb4d1ce-015b-40d8-9b2f-45d9a86da619" />
+
+inputan 4:
+<img width="223" height="286" alt="Screenshot 2026-06-09 210528" src="https://github.com/user-attachments/assets/f8d02321-923a-468e-8b93-62a8f0656e83" />
+
+inputan 5:
+<img width="415" height="187" alt="Screenshot 2026-06-09 210538" src="https://github.com/user-attachments/assets/e1956f24-1b99-471b-89a1-2f2f8411fc23" />
+
+
+
 link youtube:
